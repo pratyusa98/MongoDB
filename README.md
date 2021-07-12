@@ -4,7 +4,7 @@ Here I Upload All Related Mongodb
 https://pymongo.readthedocs.io/en/stable/tutorial.html
 
 ### Difference between RDBMS and MongoDB
-![img](img4.jpg)
+![img](img4.PNG)
 
 ### Comparision Mongodb with Mysql
 ![img](img.jpg)
